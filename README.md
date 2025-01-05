@@ -1,5 +1,18 @@
-## Hi there 👋
+## Hello World! Meu nome é Matheus Gouvea👋
 
+ ## Um breve resumo sobre mim:
+ - Curso Analise e desenvolvimento de sistemas(ADS)
+ - Motivado em aprender e teimoso pra nunca desistir
+ - Focado em criar projetos
+
+## 💻 Tech Stack
+
+ <div align="center">
+  <a href="https://github.com/Athreus99">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=athreus&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+ 
 <!--
 **Athreus99/Athreus99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
