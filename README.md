@@ -4,7 +4,7 @@
  - Curso Analise e desenvolvimento de sistemas(ADS)
  - Focado em criar projetos
  - Em busca de uma primeira oportunidade nesse ramo
- - 
+
 ## 💻 Tech Stack
 
  <div align="center">
