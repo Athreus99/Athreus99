@@ -2,9 +2,9 @@
 
  ## Um breve resumo sobre mim:
  - Curso Analise e desenvolvimento de sistemas(ADS)
- - Motivado em aprender e teimoso pra nunca desistir
  - Focado em criar projetos
-
+ - Em busca de uma primeira oportunidade nesse ramo
+ - 
 ## 💻 Tech Stack
 
  <div align="center">
